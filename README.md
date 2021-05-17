@@ -15,7 +15,7 @@ Voici un petit script qui vous permettra de tester vos fonctions de calculatrice
 Simplement copier-coller les fichiers answers.json et test_calculatrice.py dans votre dossier tp1/ (dans le même dossier que calculatrice.py et partie1-4.py) et exécuter le script avec la commande
 
 ```cmd
-python test_calculatrice.py
+python testCalculatrice.py
 ```
 
 Le fichier vous génère un rapport de tous les tests exécutés dans la console. Exemple de test échoué:
